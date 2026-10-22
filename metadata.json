@@ -1,0 +1,6 @@
+{
+  "name": "Somera Farms & Trading Ltd",
+  "description": "Official corporate website of Somera Farms & Trading Ltd, a Ghanaian agricultural and agro-processing company based in Techimantia, Ahafo Region, Ghana. Leading oil palm cultivation, commercial processing, seedling nurseries, and sustainable value addition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
